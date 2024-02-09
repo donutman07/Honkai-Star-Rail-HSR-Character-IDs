@@ -53,7 +53,7 @@
 | 1311 | Screwllum |
 | 1312 | Misha |
 | 1313 | ??? |
-| 1315 | ??? |
+| 1315 | Boothill |
 | 8001 | Destruction Male MC |
 | 8002 | Destruction Female MC |
 | 8003 | Preservation Male MC |
