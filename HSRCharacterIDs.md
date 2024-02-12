@@ -22,7 +22,6 @@
 | 1109 | Hook |
 | 1110 | Lynx |
 | 1111 | Luka |
-| 1112 | Topaz |
 | 1201 | Qingque |
 | 1202 | Tingyun |
 | 1203 | Luocha |
