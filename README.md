@@ -8,4 +8,4 @@ also this is repository because gists are stupid lol
 
 changelog:
 2/9/2024: boothill id added
-2/12/2024: robin id added
+2/12/2024: robin and sunday ids added, topaz old id removed
