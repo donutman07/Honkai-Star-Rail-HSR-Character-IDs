@@ -10,6 +10,7 @@
 | 1006 | Silver Wolf |
 | 1008 | Arlan |
 | 1009 | Asta |
+| 1011 | ??? |
 | 1013 | Herta |
 | 1101 | Bronya |
 | 1102 | Seele |
@@ -39,6 +40,7 @@
 | 1215 | Hanya |
 | 1216 | Topaz |
 | 1217 | Huohuo |
+| 1224 | ??? |
 | 1301 | Gallagher |
 | 1302 | Argenti |
 | 1303 | Ruan Mei |
