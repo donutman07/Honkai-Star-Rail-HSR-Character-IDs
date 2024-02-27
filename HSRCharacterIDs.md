@@ -23,6 +23,7 @@
 | 1109 | Hook |
 | 1110 | Lynx |
 | 1111 | Luka |
+| 1112 | Topaz |
 | 1201 | Qingque |
 | 1202 | Tingyun |
 | 1203 | Luocha |
@@ -38,7 +39,6 @@
 | 1213 | Dan Heng · Imbibitor Lunae |
 | 1214 | Xueyi |
 | 1215 | Hanya |
-| 1216 | Topaz |
 | 1217 | Huohuo |
 | 1224 | ??? |
 | 1301 | Gallagher |
