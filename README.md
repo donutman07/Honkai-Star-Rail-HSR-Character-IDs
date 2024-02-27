@@ -5,6 +5,8 @@ aether divide mc refers to the "aetherium wars" event where mc used different an
 
 also this is repository because gists are stupid lol
 
+note: topaz's old id was 1216 and i don't think the spot will be used again
+
 changelog:
 
 2/9/2024: boothill id added
