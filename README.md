@@ -14,3 +14,5 @@ changelog:
 2/12/2024: robin and sunday ids added, topaz old id removed
 
 2/20/2024: 1011, 1224, and 1317 added
+
+3/27/2024: jade id added
