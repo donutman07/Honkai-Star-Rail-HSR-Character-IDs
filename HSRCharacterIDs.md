@@ -54,6 +54,7 @@
 | 1311 | Screwllum |
 | 1312 | Misha |
 | 1313 | Sunday |
+| 1314 | Jade |
 | 1315 | Boothill |
 | 1317 | ??? |
 | 8001 | Destruction Male MC |
