@@ -42,7 +42,6 @@
 | 1217 | Huohuo |
 | 1221 | Yunli |
 | 1224 | March 7th New Path |
-| 1224 | ??? |
 | 1301 | Gallagher |
 | 1302 | Argenti |
 | 1303 | Ruan Mei |
