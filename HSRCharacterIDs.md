@@ -40,6 +40,7 @@
 | 1214 | Xueyi |
 | 1215 | Hanya |
 | 1217 | Huohuo |
+| 1218 | Jiaoqiu
 | 1221 | Yunli |
 | 1224 | March 7th New Path |
 | 1301 | Gallagher |
