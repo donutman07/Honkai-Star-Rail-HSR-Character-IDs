@@ -20,3 +20,5 @@ changelog:
 5/14/2024: new march path and yunli added
 
 6/17/2024: jiaoqiu added
+
+6/18/2024: feixiao, lingsha, and moze added
