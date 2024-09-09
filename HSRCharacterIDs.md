@@ -43,8 +43,8 @@
 | 1218 | Jiaoqiu
 | 1220 | Feixiao
 | 1221 | Yunli |
-| 1222 | Lingsha
-| 1223 | Moze
+| 1222 | Lingsha |
+| 1223 | Moze |
 | 1224 | March 7th (Hunt) |
 | 1301 | Gallagher |
 | 1302 | Argenti |
@@ -61,10 +61,12 @@
 | 1313 | Sunday |
 | 1314 | Jade |
 | 1315 | Boothill |
-| 1317 | ??? |
+| 1316 | Sam (Again) |
+| 1317 | Rappa |
 | 8001 | Destruction Male MC |
 | 8002 | Destruction Female MC |
 | 8003 | Preservation Male MC |
 | 8004 | Preservation Female MC |
 | 8005 | Harmony Male MC |
+| 8006 | Harmony Female MC |
 | 9982 | Aether Divide MC |
