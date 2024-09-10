@@ -10,6 +10,7 @@
 | 1006 | Silver Wolf |
 | 1008 | Arlan |
 | 1009 | Asta |
+| 1010 | Female Destruction MC (Old) |
 | 1011 | ??? |
 | 1013 | Herta |
 | 1101 | Bronya |
