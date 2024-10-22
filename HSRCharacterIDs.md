@@ -47,6 +47,7 @@
 | 1222 | Lingsha |
 | 1223 | Moze |
 | 1224 | March 7th (Hunt) |
+| 1225 | Fugue |
 | 1301 | Gallagher |
 | 1302 | Argenti |
 | 1303 | Ruan Mei |
