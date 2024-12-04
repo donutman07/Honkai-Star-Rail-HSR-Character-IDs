@@ -65,6 +65,11 @@
 | 1315 | Boothill |
 | 1316 | Sam (Again) |
 | 1317 | Rappa |
+| 1401 | The Herta |
+| 1402 | Aglaea |
+| 1403 | Tribbie |
+| 1407 | Castorice |
+| 1408 | Phainon |
 | 8001 | Destruction Male MC |
 | 8002 | Destruction Female MC |
 | 8003 | Preservation Male MC |
