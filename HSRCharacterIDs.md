@@ -68,6 +68,8 @@
 | 1401 | The Herta |
 | 1402 | Aglaea |
 | 1403 | Tribbie |
+| 1404 | Mydei |
+| 1405 | Anaxa |
 | 1407 | Castorice |
 | 1408 | Phainon |
 | 8001 | Destruction Male MC |
@@ -76,4 +78,6 @@
 | 8004 | Preservation Female MC |
 | 8005 | Harmony Male MC |
 | 8006 | Harmony Female MC |
+| 8007 | Remembrance Male MC |
+| 8008 | Remembrance Female MC |
 | 9982 | Aether Divide MC |
