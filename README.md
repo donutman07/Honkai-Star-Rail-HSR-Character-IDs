@@ -24,3 +24,5 @@ changelog:
 6/18/2024: feixiao, lingsha, and moze added
 
 12/3/2024: the herta, aglaea, tribbie, castorice, and phainon ids added
+
+12/8/2024: mydei and anaxa ids added
