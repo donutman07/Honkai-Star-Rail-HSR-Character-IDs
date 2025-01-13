@@ -65,6 +65,7 @@
 | 1315 | Boothill |
 | 1316 | Sam (Again) |
 | 1317 | Rappa |
+| 1319 | Mr. Reca |
 | 1401 | The Herta |
 | 1402 | Aglaea |
 | 1403 | Tribbie |
