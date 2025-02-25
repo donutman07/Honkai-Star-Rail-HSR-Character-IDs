@@ -71,6 +71,7 @@
 | 1403 | Tribbie |
 | 1404 | Mydei |
 | 1405 | Anaxa |
+| 1406 | Cipher |
 | 1407 | Castorice |
 | 1408 | Phainon |
 | 1409 | Hyacine |
