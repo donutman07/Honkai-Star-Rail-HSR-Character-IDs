@@ -13,6 +13,8 @@
 | 1010 | Female Destruction MC (Old) |
 | 1011 | ??? |
 | 1013 | Herta |
+| 1014 | Saber (Artoria) | 
+| 1015 | Archer (Emiya) |
 | 1101 | Bronya |
 | 1102 | Seele |
 | 1103 | Serval |
