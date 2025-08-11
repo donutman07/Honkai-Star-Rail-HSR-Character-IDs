@@ -80,6 +80,9 @@
 | 1410 | Hysilens |
 | 1412 | Cerydra |
 | 1413 | Evernight |
+| 1414 | Dan Heng • Permansor Terrae |
+| 1415 | Cyrene |
+| 1416 | ??? |
 | 8001 | Destruction Male MC |
 | 8002 | Destruction Female MC |
 | 8003 | Preservation Male MC |
