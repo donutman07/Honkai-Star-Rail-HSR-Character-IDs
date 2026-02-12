@@ -86,7 +86,7 @@
 | 1416 | ??? |
 | 1501 | Sparxie |
 | 1502 | Yao Guang |
-| 1503 | ??? |
+| 1503 | Pearl |
 | 1504 | Ashveil |
 | 1505 | Evanescia |
 | 1514 | Nihilux |
