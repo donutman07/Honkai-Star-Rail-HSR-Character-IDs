@@ -89,6 +89,7 @@
 | 1503 | Pearl |
 | 1504 | Ashveil |
 | 1505 | Evanescia |
+| 1506 | Silver Wolf LV.999 |
 | 1514 | Nihilux |
 | 8001 | Destruction Male MC |
 | 8002 | Destruction Female MC |
@@ -98,4 +99,6 @@
 | 8006 | Harmony Female MC |
 | 8007 | Remembrance Male MC |
 | 8008 | Remembrance Female MC |
+| 8009 | Elation Male MC |
+| 8010 | Elation Female MC |
 | 9982 | Aether Divide MC |
