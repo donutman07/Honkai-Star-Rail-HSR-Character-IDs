@@ -90,6 +90,7 @@
 | 1504 | Ashveil |
 | 1505 | Evanescia |
 | 1506 | Silver Wolf LV.999 |
+| 1507 | Mortenax Blade |
 | 1514 | Nihilux |
 | 8001 | Destruction Male MC |
 | 8002 | Destruction Female MC |
