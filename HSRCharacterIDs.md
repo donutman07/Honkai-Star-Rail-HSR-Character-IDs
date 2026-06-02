@@ -92,6 +92,9 @@
 | 1505 | Evanescia |
 | 1506 | Silver Wolf LV.999 |
 | 1507 | Mortenax Blade |
+| 1508 | Rin Tohsaka |
+| 1509 | Gilgamesh |
+| 1510 | Himeko • Nova
 | 1514 | Nihilux |
 | 8001 | Destruction Male MC |
 | 8002 | Destruction Female MC |
